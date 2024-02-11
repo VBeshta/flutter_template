@@ -1,16 +1,34 @@
 # flutter_template
 
-A new Flutter project.
+This is a basic modular template for Flutter application project.
 
-## Getting Started
+## Project structure
+```
+lib
+├── core
+│   ├── l10n            // localization
+│   ├── logger          // log interface
+│   ├── router          // router interface
+│   └── service_locator // Dependency Injection
+├── data 
+│   ├── data_source
+│   │   ├── network_data_source
+│   │   └── repository
+│   └── service
+│       ├── local_storage
+│       └── network_service
+└── presentation
+    ├── pages
+    │   └── home
+    └── tokens
+        └── theme
+```
 
-This project is a starting point for a Flutter application.
+This template contains basic **unit tests** and **widget tests**.
 
-A few resources to get you started if this is your first Flutter project:
+## Used libraries 
+Log - [Logger](https://pub.dev/packages/logger)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Navigation - [go_router](https://pub.dev/packages/go_router)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dependency Injection - [get_it](https://pub.dev/packages/get_it)
