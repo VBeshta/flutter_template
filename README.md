@@ -26,7 +26,7 @@ lib
 
 This template contains basic **unit tests** and **widget tests**.
 
-## Used libraries 
+## Libraries used
 Log - [Logger](https://pub.dev/packages/logger)
 
 Navigation - [go_router](https://pub.dev/packages/go_router)
