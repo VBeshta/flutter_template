@@ -7,6 +7,7 @@ import 'package:flutter_template/core/router/app_router.dart';
 import 'package:flutter_template/core/router/app_router_handler.dart';
 import 'package:flutter_template/core/router/go_app_router.dart';
 import 'package:flutter_template/core/router/go_router.dart';
+import 'package:flutter_template/data/data_source/repository/auth_repository.dart';
 import 'package:flutter_template/data/service/local_storage/local_storage_service.dart';
 import 'package:flutter_template/data/service/local_storage/shared_prefs_storage_service.dart';
 import 'package:flutter_template/data/service/network_service/dio_network_service_impl.dart';
