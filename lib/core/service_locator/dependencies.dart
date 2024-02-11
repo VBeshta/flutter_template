@@ -4,7 +4,7 @@ part of 'package:flutter_template/core/app.dart';
 
 CompositeLogger get _getCompositeLogger => _getIt.get<CompositeLogger>();
 
-// AuthRepository get getAuthRepository => _getIt.get<AuthRepository>();
+AuthRepository get getAuthRepository => _getIt.get<AuthRepository>();
 
 // Private instance getters for each dependency
 
