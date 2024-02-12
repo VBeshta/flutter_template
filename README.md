@@ -33,4 +33,7 @@ Navigation - [go_router](https://pub.dev/packages/go_router)
 
 Dependency Injection - [get_it](https://pub.dev/packages/get_it)
 
+Thanks to [@Andrey](https://github.com/zddarova) for the inspiration.
+
 Feel free to explore and customize this template to suit your project requirements. Happy coding!
+
