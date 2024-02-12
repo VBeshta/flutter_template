@@ -1,4 +1,4 @@
-# flutter_template
+# Flutter_template
 
 This is a basic modular template for Flutter application project.
 
@@ -32,3 +32,5 @@ Log - [Logger](https://pub.dev/packages/logger)
 Navigation - [go_router](https://pub.dev/packages/go_router)
 
 Dependency Injection - [get_it](https://pub.dev/packages/get_it)
+
+Feel free to explore and customize this template to suit your project requirements. Happy coding!
