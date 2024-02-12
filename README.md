@@ -36,7 +36,6 @@ Dependency Injection - [get_it](https://pub.dev/packages/get_it)
 
 ## Thanks
 
-Thanks to [@Andrey](https://github.com/zddarova) for the inspiration.
+Thanks to [@Andrey](https://github.com/zddarova) for the inspiration. 🌟
 
-**Feel free to explore and customize this template to suit your project requirements. Happy coding!
-**
+**Feel free to explore and customize this template to suit your project requirements. Happy coding!** 🚀
